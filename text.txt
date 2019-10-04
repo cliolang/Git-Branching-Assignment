@@ -6,3 +6,4 @@ This is the first alteration in feature-C
 This is the second alteration in feature-C
 This is the third alteration in feature-C
 This is the fourth alteration in feature-C
+This is the fifth alteration in feature-C
