@@ -1,1 +1,2 @@
 My name is Clio Lang and this is my git branching assignment.
+This is the first alteration in feature-A
